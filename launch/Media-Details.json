@@ -1,0 +1,20 @@
+{
+  "disclosure": "Scripted app preview; sample data; private alpha",
+  "files": [
+    {
+      "name": "Sanders-Intelligence-Welcome.jpg",
+      "bytes": 253199,
+      "sha256": "1cf694d6970c93fd7e0870989f067f07d4b4d7a3e7dde0f15b3978910e8d742c"
+    },
+    {
+      "name": "Aether-Code-UI-Walkthrough.mp4",
+      "bytes": 7270938,
+      "sha256": "71958db5d881ba9814dfce7493dcd931c5fb1a95bd2f6fc706b10362e224b33d"
+    },
+    {
+      "name": "Aether-Portal-Preview.jpg",
+      "bytes": 236713,
+      "sha256": "0d1d602b314f69d7b76a1edc06c513524b8f939afae6965f0f78969fdafe6bd3"
+    }
+  ]
+}
